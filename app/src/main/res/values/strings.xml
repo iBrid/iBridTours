@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iBrid Tours</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="event_category">Events</string>
+    <string name="place_category">Places</string>
+    <string name="hotel_category">Hotels</string>
+</resources>
